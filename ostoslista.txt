@@ -4,3 +4,4 @@ kaakao
 kahvi
 juusto
 kerma
+sokeria
